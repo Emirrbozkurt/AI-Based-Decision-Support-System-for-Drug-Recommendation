@@ -39,7 +39,7 @@ The project implements a simple **chatbot interface** in Python and utilizes a s
    ```
 3. Run the chatbot:
    ```bash
-   python AıProjeING.py
+   python Aıproje.py
    ```
 
 ---
